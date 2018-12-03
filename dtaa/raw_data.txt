@@ -1,0 +1,1 @@
+To create a new folder on Github, create a file located in that directory. 
